@@ -1,0 +1,4 @@
+This Resource Pack will only work when you have the Fabric mod Catwalks Inc installed.
+
+https://www.curseforge.com/minecraft/mc-mods/catwalks-inc/
+
